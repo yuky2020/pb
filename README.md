@@ -9,7 +9,7 @@ https://github.com/skorokithakis/pastebinit
 
 Pastebinit
 
-# intall
+# install
 
 clone this repository ,
 
