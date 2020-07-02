@@ -21,5 +21,5 @@ very easy
 ## Usage
 
 ```bash
-pb &quot;my fantastic new note&quot;;
+pb "my fantastic new note" 
 ```
